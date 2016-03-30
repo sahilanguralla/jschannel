@@ -1,11 +1,11 @@
 {
-  "name": "jschannel",
+  "name": "mozilla-jschannel",
   "homepage": "https://github.com/sahilanguralla/jschannel",
   "authors": [
     "Sahil Anguralla <anguralla.sahil@gmail.com>"
   ],
   "description": "Bower version of Mozilla's jschannel library",
-  "main": "dist/jschannel.min.js",
+  "main": "src/jschannel.js",
   "moduleType": [
     "globals"
   ],
