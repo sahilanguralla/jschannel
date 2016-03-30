@@ -1,0 +1,27 @@
+{
+  "name": "jschannel",
+  "homepage": "https://github.com/sahilanguralla/jschannel",
+  "authors": [
+    "Sahil Anguralla <anguralla.sahil@gmail.com>"
+  ],
+  "description": "Bower version of Mozilla's jschannel library",
+  "main": "dist/jschannel.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jschannel",
+    "ifc",
+    "iframe",
+    "communication",
+    "postMessage"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
